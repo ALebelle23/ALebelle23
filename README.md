@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ALebelle23
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning software eng
+- 💞️ I’m looking to collaborate on many projects
+- 📫 How to reach me "aidan.lebelle8@gmail.com"
